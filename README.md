@@ -49,8 +49,8 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 The following software is required to be installed on your system:
 
-*Node 10.x
-*Npm 6.x
+`Node 10.x
+Npm 6.x`
 Type the following commands in the terminal to verify your node and npm versions
 
 ~node -v~
@@ -60,7 +60,8 @@ Follow the following steps to get development environment running.
 
 *Clone _'react-weather-standard'_ repository from GitHub
 
-`git clone https://github.com/prasannakumarbezavada/e-recepies`
+`git clone https://github.com/prasannakumarbezavada/e-recepies`  
+
 _OR USING SSH_
 
 `git clone git@github.com:prasannakumarbezavada/e-recepies.git`
@@ -73,11 +74,11 @@ Before continuing, the following steps are required:
 
 1. Get API keys
 
-   * OpenWeather API
+   * Food2Fork API
 
-     Have a look at [OpenWeather API](http://openweathermap.org/api)
+     Have a look at [Food2Fork API](http://food2fork.com/)
 
-     Get an API key [here](http://openweathermap.org/appid)
+     Get an API key [here](http://food2fork.com/about/api)
      
      ### Build
 
