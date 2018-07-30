@@ -22,13 +22,6 @@ In most cases bumping the `react-scripts` version in `package.json` and running 
 
 We commit to keeping the breaking changes minimal so you can upgrade `react-scripts` painlessly.
 
-## Sending Feedback
-
-We are always open to [your feedback](https://github.com/facebookincubator/create-react-app/issues).This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
-
-Below you will find some information on how to perform common tasks.<br>
-You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
-
 ## Updating to New Releases
 
 Create React App is divided into two packages:
@@ -67,14 +60,14 @@ Follow the following steps to get development environment running.
 
 *Clone _'react-weather-standard'_ repository from GitHub
 
-~git clone https://github.com/prasannakumarbezavada/e-recepies~
+`git clone https://github.com/prasannakumarbezavada/e-recepies`
 _OR USING SSH_
 
-~git clone git@github.com:prasannakumarbezavada/e-recepies.git~
+`git clone git@github.com:prasannakumarbezavada/e-recepies.git`
 * Install node modules
 
-~cd react-weather-standard
-npm install~
+`cd react-weather-standard
+npm install`
 
 Before continuing, the following steps are required:
 
