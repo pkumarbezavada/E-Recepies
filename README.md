@@ -1,3 +1,146 @@
+# e-recepies
+
+This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+
+Below you will find some information on how to perform common tasks.<br>
+You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
+
+## Updating to New Releases
+
+Create React App is divided into two packages:
+
+* `create-react-app` is a global command-line utility that you use to create new projects.
+* `react-scripts` is a development dependency in the generated projects (including this one).
+
+You almost never need to update `create-react-app` itself: it delegates all the setup to `react-scripts`.
+
+When you run `create-react-app`, it always creates the project with the latest version of `react-scripts` so you’ll get all the new features and improvements in newly created apps automatically.
+
+To update an existing project to a new version of `react-scripts`, [open the changelog](https://github.com/facebookincubator/create-react-app/blob/master/CHANGELOG.md), find the version you’re currently on (check `package.json` in this folder if you’re not sure), and apply the migration instructions for the newer versions.
+
+In most cases bumping the `react-scripts` version in `package.json` and running `npm install` in this folder should be enough, but it’s good to consult the [changelog](https://github.com/facebookincubator/create-react-app/blob/master/CHANGELOG.md) for potential breaking changes.
+
+We commit to keeping the breaking changes minimal so you can upgrade `react-scripts` painlessly.
+
+## Sending Feedback
+
+We are always open to [your feedback](https://github.com/facebookincubator/create-react-app/issues).This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+
+Below you will find some information on how to perform common tasks.<br>
+You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
+
+## Updating to New Releases
+
+Create React App is divided into two packages:
+
+* `create-react-app` is a global command-line utility that you use to create new projects.
+* `react-scripts` is a development dependency in the generated projects (including this one).
+
+You almost never need to update `create-react-app` itself: it delegates all the setup to `react-scripts`.
+
+When you run `create-react-app`, it always creates the project with the latest version of `react-scripts` so you’ll get all the new features and improvements in newly created apps automatically.
+
+To update an existing project to a new version of `react-scripts`, [open the changelog](https://github.com/facebookincubator/create-react-app/blob/master/CHANGELOG.md), find the version you’re currently on (check `package.json` in this folder if you’re not sure), and apply the migration instructions for the newer versions.
+
+In most cases bumping the `react-scripts` version in `package.json` and running `npm install` in this folder should be enough, but it’s good to consult the [changelog](https://github.com/facebookincubator/create-react-app/blob/master/CHANGELOG.md) for potential breaking changes.
+
+We commit to keeping the breaking changes minimal so you can upgrade `react-scripts` painlessly.
+
+## Sending Feedback
+
+We are always open to [your feedback](https://github.com/facebookincubator/create-react-app/issues).
+
+## Getting Started
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
+### Prerequisites
+The following software is required to be installed on your system:
+
+*Node 10.x
+*Npm 6.x
+Type the following commands in the terminal to verify your node and npm versions
+
+~node -v~
+~npm -v~
+### Install
+Follow the following steps to get development environment running.
+
+*Clone _'react-weather-standard'_ repository from GitHub
+
+~git clone https://github.com/prasannakumarbezavada/e-recepies~
+_OR USING SSH_
+
+~git clone git@github.com:prasannakumarbezavada/e-recepies.git~
+* Install node modules
+
+~cd react-weather-standard
+npm install~
+
+Before continuing, the following steps are required:
+
+1. Get API keys
+
+   * OpenWeather API
+
+     Have a look at [OpenWeather API](http://openweathermap.org/api)
+
+     Get an API key [here](http://openweathermap.org/appid)
+     
+     ### Build
+
+* Build application
+
+  This command will also run ESLint as part of build process.
+
+  ```bash
+  npm run build
+  ```
+
+* Build application and start watching for changes
+
+  This command will also run ESLint as part of build process.
+
+  ```bash
+  npm run build:watch
+  ```
+
+### Run ESlint
+
+* Lint project using ESLint
+
+  ```bash
+  npm run lint
+  ```
+
+* Lint project using ESLint, and autofix
+
+  ```bash
+  npm run lint:fix
+  ```
+
+### Run
+
+* Run start
+
+  This will run the _'serve'_ npm task
+
+  ```bash
+  npm start
+  ```
+
+* Run webpack dev server
+
+  ```bash
+  npm run serve:dev
+  ```
+
+* Alternatively run live-server (simple development http server with live reload capability)
+
+  ```bash
+  npm run serve
+  ```
+
+---
 ## Folder Structure
 
 After creation, your project should look like this:
@@ -77,3 +220,4 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 By default, the generated project uses the latest version of React.
 
 You can refer [to the React documentation](https://reactjs.org/docs/react-dom.html#browser-support) for more information about supported browsers.
+
