@@ -53,8 +53,8 @@ The following software is required to be installed on your system:
 Npm 6.x`
 Type the following commands in the terminal to verify your node and npm versions
 
-~node -v~
-~npm -v~
+`node -v
+npm -v`
 ### Install
 Follow the following steps to get development environment running.
 
