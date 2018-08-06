@@ -5,7 +5,7 @@ import Form from "./components/Form";
 import Recipes from "./components/Recipes";
 
 
-const API_KEY;//Get your own Api key from food2fork by creating account in that website
+const API_KEY = '98e77bbb4dd1be7e0b469ef6ccfb4a20';//Get your own Api key from food2fork by creating account in that website
 
 class App extends Component {
   state = {
