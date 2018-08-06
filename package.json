@@ -2,7 +2,7 @@
   "name": "e-recepies",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://prasannakumarbezavada.github.io/e-recepies",
+  "homepage": "https://prasannakumarbezavada.github.io/e-recepies/",
   "dependencies": {
     "bootstrap4": "0.0.1-security",
     "gh": "^1.12.14",
