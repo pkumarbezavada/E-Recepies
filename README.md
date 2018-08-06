@@ -22,6 +22,7 @@ In most cases bumping the `react-scripts` version in `package.json` and running 
 
 We commit to keeping the breaking changes minimal so you can upgrade `react-scripts` painlessly.
 
+<<<<<<< HEAD
 ## Sending Feedback
 
 We are always open to [your feedback](https://github.com/facebookincubator/create-react-app/issues).This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
@@ -29,6 +30,8 @@ We are always open to [your feedback](https://github.com/facebookincubator/creat
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
+=======
+>>>>>>> 8b031bac6323294e6b87cc7f9b2d4a3bf3f93df5
 ## Updating to New Releases
 
 Create React App is divided into two packages:
@@ -56,17 +59,27 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 The following software is required to be installed on your system:
 
+<<<<<<< HEAD
 *Node 10.x
 *Npm 6.x
 Type the following commands in the terminal to verify your node and npm versions
 
 ~node -v~
 ~npm -v~
+=======
+`Node 10.x
+Npm 6.x`
+Type the following commands in the terminal to verify your node and npm versions
+
+`node -v
+npm -v`
+>>>>>>> 8b031bac6323294e6b87cc7f9b2d4a3bf3f93df5
 ### Install
 Follow the following steps to get development environment running.
 
 *Clone _'react-weather-standard'_ repository from GitHub
 
+<<<<<<< HEAD
 ~git clone https://github.com/prasannakumarbezavada/e-recepies~
 _OR USING SSH_
 
@@ -75,16 +88,35 @@ _OR USING SSH_
 
 ~cd react-weather-standard
 npm install~
+=======
+`git clone https://github.com/prasannakumarbezavada/e-recepies`  
+
+_OR USING SSH_
+
+`git clone git@github.com:prasannakumarbezavada/e-recepies.git`
+* Install node modules
+
+`cd react-weather-standard
+npm install`
+>>>>>>> 8b031bac6323294e6b87cc7f9b2d4a3bf3f93df5
 
 Before continuing, the following steps are required:
 
 1. Get API keys
 
+<<<<<<< HEAD
    * OpenWeather API
 
      Have a look at [OpenWeather API](http://openweathermap.org/api)
 
      Get an API key [here](http://openweathermap.org/appid)
+=======
+   * Food2Fork API
+
+     Have a look at [Food2Fork API](http://food2fork.com/)
+
+     Get an API key [here](http://food2fork.com/about/api)
+>>>>>>> 8b031bac6323294e6b87cc7f9b2d4a3bf3f93df5
      
      ### Build
 

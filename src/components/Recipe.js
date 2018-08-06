@@ -2,7 +2,7 @@ import React from 'react';
 
 import { Link } from "react-router-dom";
 
-const API_KEY = "98e77bbb4dd1be7e0b469ef6ccfb4a20";
+const API_KEY; // Get your own API key from food2fork.com by creating free account in that website
 
 
 class Recipe extends React.Component {
