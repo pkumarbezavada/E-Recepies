@@ -2,10 +2,11 @@
   "name": "e-recepies",
   "version": "0.1.0",
   "private": true,
-"homepage": "https://prasanna.github.io/e-recepies/",
+  "homepage": "https://prasannakumarbezavada.github.io/e-recepies",
   "dependencies": {
     "bootstrap4": "0.0.1-security",
     "gh": "^1.12.14",
+    "gh-pages": "^1.2.0",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-router": "^4.3.1",
@@ -13,7 +14,7 @@
     "react-scripts": "1.1.4"
   },
   "scripts": {
-      "predeploy": "npm run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
