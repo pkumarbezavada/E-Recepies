@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # e-recepies
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
@@ -245,3 +246,6 @@ By default, the generated project uses the latest version of React.
 
 You can refer [to the React documentation](https://reactjs.org/docs/react-dom.html#browser-support) for more information about supported browsers.
 
+=======
+# E-recepies
+>>>>>>> 8bddd635c6dbd03cd572901c3ec68aca2273882f
