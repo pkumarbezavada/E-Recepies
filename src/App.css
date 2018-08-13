@@ -14,7 +14,10 @@ a {
 button:focus {
   outline: none;
 }
-
+.title-name{
+    
+   color:black;
+}
 .App {
   text-align: center;
 }

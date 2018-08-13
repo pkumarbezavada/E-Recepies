@@ -34,7 +34,7 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <h1 className="App-title">E-Recipes</h1>
-        <span>Welcome To E-Recipes Page, Please Type a Key Word: Example-"Chicken","Shrimp" Etc.</span>
+        <span><i className="title-name">Welcome To e-Recipes Page, Please Type a Key Word: Example -"Chicken","Shrimp" Etc.</i></span>
         </header>
         <Form getRecipe={this.getRecipe} />
         <Recipes recipes={this.state.recipes} />
