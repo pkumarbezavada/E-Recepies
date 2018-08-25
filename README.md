@@ -36,5 +36,8 @@ In order to build this project you can do it by using the following command ``` 
 
 ## Output
 When you run the project the output would look like this.
+![Landing Page](https://github.com/prasannakumarbezavada/E-Recepies/blob/master/src/images/LandingPage.png)&nbsp;
+![Search Page](https://github.com/prasannakumarbezavada/E-Recepies/blob/master/src/images/Second.png)&nbsp;
+![Individual Recepie page](https://github.com/prasannakumarbezavada/E-Recepies/blob/master/src/images/search%20result.png)
 
 
